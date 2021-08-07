@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-10-food-service",
+  "name": "goit-js-hw-11-color-switch",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,21 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/js/app.js",
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-color-switch/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khomasl/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/khomasl/goit-js-hw-11-color-switch.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/khomasl/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/khomasl/goit-js-hw-11-color-switch/issues"
   },
-  "homepage": "https://khomasl.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://khomasl.github.io/goit-js-hw-11-color-switch",
   "devDependencies": {
     "handlebars-loader": "^1.7.1",
     "parcel-bundler": "^1.12.5",
